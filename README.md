@@ -1,4 +1,4 @@
-Sure! Here's a **detailed README.md** file for your notebook `ya.ipynb` that you can directly add to your GitHub repository. It includes sections like project overview, detailed methodology, visuals, and more guidance for setup and usage:
+
 
 ---
 
